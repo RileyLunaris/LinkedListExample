@@ -1,4 +1,4 @@
-# CSC 6301 : Project 4 : Sorted Linked List
+# CSC 6301 : Project 4 : Linked List Example
 CSC6301 - Week 4 : Sorted Linked List
 
 ## Table of Contents
